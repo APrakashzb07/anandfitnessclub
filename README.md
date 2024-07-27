@@ -1,4 +1,4 @@
-<h1>fitnessclub</h1>
+<h1>fitness Club</h1>
 <h4>Project on landing website. This is the project on landing website that is fitness club</h4>
 <p>
 Fitness Club Landing Page Project
